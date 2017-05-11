@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item
+            android:title="move1"
+            android:icon="@mipmap/ic_launcher"/>
+        <item
+            android:title="move2"
+            android:icon="@mipmap/ic_launcher"/>
+    </group>
+    <item
+        android:title="subtitle">
+        <menu>
+            <item
+                android:title="move3"
+                android:icon="@mipmap/ic_launcher"></item>
+            <item
+                android:title="move4"
+                android:icon="@mipmap/ic_launcher"></item>
+        </menu>
+    </item>
+</menu>
